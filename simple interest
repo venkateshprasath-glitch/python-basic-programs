@@ -1,0 +1,5 @@
+P=float(input("PRINCIPAL: "))
+R=float(input("RATE: "))
+T=float(input("TIME: "))
+SI=(P * R * T)/100
+print("SIMPLE INTEREST=",SI)
