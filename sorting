@@ -1,0 +1,3 @@
+number=[1,3,2,5,,4]
+number.sorting()
+print("sorted of elements:",numbers)
