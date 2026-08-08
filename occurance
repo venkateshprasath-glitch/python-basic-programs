@@ -1,0 +1,3 @@
+num=[10,20,20,30,40]
+x=int(input("enter numbers to search: "))
+print("occurance=",num.count(x))
